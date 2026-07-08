@@ -97,7 +97,8 @@ Include screenshots in the following order:
 ![Alt Text](https://github.com/manognaputta93817-png/TEXT2COURSE_CONVERTER/blob/49bef51273f90318a7133347728086673bbc696b/Authentication%20page%20.png)
 
 3. Course Content Generation with AI Answers:
-![Alt Text]()
+
+![Alt Text](https://github.com/manognaputta93817-png/TEXT2COURSE_CONVERTER/blob/2f443cdae514c4de992924ffa99e24ce9cad4256/AI%20Answer%20generator%20.png)
 
 4. 📝 Flowchart Generation:
 
