@@ -96,11 +96,14 @@ Include screenshots in the following order:
 
 ![Alt Text](https://github.com/manognaputta93817-png/TEXT2COURSE_CONVERTER/blob/49bef51273f90318a7133347728086673bbc696b/Authentication%20page%20.png)
 
-3. 📝 Flowchart Generation:
+3. Course Content Generation with AI Answers:
+![Alt Text]()
+
+4. 📝 Flowchart Generation:
 
 ![Alt Text](https://github.com/manognaputta93817-png/TEXT2COURSE_CONVERTER/blob/3dbeaa5cea5804ea340c60ba85b52c73ebcb1448/Flowchart%20generator%20.png)
 
-4. Qr Scan :
+5. Qr Scan :
 
 ![Alt Text](https://github.com/manognaputta93817-png/TEXT2COURSE_CONVERTER/blob/fe021bcfe57361983d1208083340eeb4d5057ca0/QR%20SCAN%20.png)
 
