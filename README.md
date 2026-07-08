@@ -90,7 +90,10 @@ Objective: Scan QR codes and access educational resources instantly.
 Include screenshots in the following order:
 1. 🏠 Home Page :
 
-& User Login
+![Alt Text](https://github.com/manognaputta93817-png/TEXT2COURSE_CONVERTER/blob/76b7d90f66a9959892529476b92ff73b05ef5420/login%20page%20.png)
+
+2. User Login: 
+
 2. 📚 Course Content Generation with AI Answers
 3. 📝 Quiz & Flowchart Generation
 4. 📄 OCR / AI Image Generation / Dashboard
