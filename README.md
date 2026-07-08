@@ -118,7 +118,7 @@ Include screenshots in the following order:
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/manognaputta93817-png/text2course.git
+git clone https://github.com/manognaputta93817-png/TEXT2COURSE_CONVERTER.git
 
 ---
 
