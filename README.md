@@ -94,9 +94,13 @@ Include screenshots in the following order:
 
 2. User Login: 
 
-2. 📚 Course Content Generation with AI Answers
-3. 📝 Quiz & Flowchart Generation
-4. 📄 OCR / AI Image Generation / Dashboard
+![Alt Text](https://github.com/manognaputta93817-png/TEXT2COURSE_CONVERTER/blob/49bef51273f90318a7133347728086673bbc696b/Authentication%20page%20.png)
+
+3. 📝 Flowchart Generation:
+![Alt Text]()
+
+4. Qr Scan :
+![Alt Text]()
 
 ---
 
