@@ -2,14 +2,14 @@
 
 An intelligent learning platform that transforms topics, PDFs, and images into interactive courses with AI-generated content, quizzes, visual explanations, and personalized learning resources.
 
-🔍 Project Type: AI-Powered Full Stack Web Application  
-📌 Status: Active Development  
-🛠 Tech Stack:
-  Frontend Development: React.js, Next.js, TypeScript, HTML5, CSS3
-  Backend Development:Python, Java, FastAPI
-  Artificial Intelligence: Google Gemini AI, Groq API
-  Database: Neon PostgreSQL
-  Authentication:Firebase Authentication
+   🔍 Project Type: AI-Powered Full Stack Web Application  
+   📌 Status: Active Development  
+   🛠 Tech Stack:
+        Frontend Development: React.js, Next.js, TypeScript, HTML5, CSS3
+        Backend Development:Python, Java, FastAPI
+        Artificial Intelligence: Google Gemini AI, Groq API
+        Database: Neon PostgreSQL
+        Authentication:Firebase Authentication
 
 ---
 
@@ -103,14 +103,6 @@ Include screenshots in the following order:
 4. Qr Scan :
 
 ![Alt Text](https://github.com/manognaputta93817-png/TEXT2COURSE_CONVERTER/blob/fe021bcfe57361983d1208083340eeb4d5057ca0/QR%20SCAN%20.png)
-
----
-
- 📽️ Live Demo
-
-🎥  Watch Demo 
-
-> Add your project demonstration video link here.
 
 ---
 
